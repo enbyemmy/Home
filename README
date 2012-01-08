@@ -1,0 +1,11 @@
+#############
+# Repository for home directory
+# contains: various config files and bash scripts
+# author: Ethan Schaefer <ethanmschaefer@gmail.com>
+# 
+# changelog
+# v1: 20120108 
+# added .zshrc file
+###############
+
+
